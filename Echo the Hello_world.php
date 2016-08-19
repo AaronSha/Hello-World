@@ -1,4 +1,4 @@
 <?php 
-//the first for php --Hello_world program
+//更新
 echo "Hello_world" ;
 ?>
